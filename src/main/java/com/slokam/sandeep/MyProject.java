@@ -6,7 +6,8 @@ public class MyProject {
 		
 		System.out.println("Hello Friends welcome to the new concept of git");
 		System.out.println("new repository added");
-		System.out.println("started working with gitbash");
+		System.out.println("started working with gitbash work");
+		
 	}
 
 }
