@@ -62,6 +62,7 @@ public class BharathK {
 		System.out.println("Hello folks");
 
 	}
+<<<<<<< HEAD
 	public void sample()
 	{
 		System.out.println("sampleeeeeee");
@@ -89,6 +90,11 @@ public class BharathK {
 		System.out.println("Hello folks");
 
 >>>>>>> 90c3402b8ae4a421bf2bef27840691f241062591
+=======
+	
+	public void Raghavendra() {
+		System.out.println("Hello ");
+>>>>>>> 9cb0a0cc585fb5e402844499f3f8ecf734a2b157
 	}
 }
  
