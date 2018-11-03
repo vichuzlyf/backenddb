@@ -10,7 +10,11 @@ public class BharathK {
 		System.out.println("Harish ...");
 	}
 	public void test1() {
-		System.out.println("I am bharath");
+		System.out.println("I am bharath ");
+		System.out.println("haiii sir");
+	}
+	public void hari(){
+		System.out.println("hari");
 	}
 	public void narasimha() {
 		System.out.println("I am narasimha reddy");
@@ -22,36 +26,6 @@ public class BharathK {
 	}
 	
 
-
-	public void methodByVijay() {
-		System.out.println("method added by vijay and commit through terminal...");
-	}
-	public void saiPurushothamReddy() {
-		System.out.println("SAI ANE NENU");
-	}
-	
-	public void test2() {
-		
-		System.out.println("I am karan in bharath class");
-	}
-	public void viswanath(){
-		System.out.println("haiiii i am viswanath");
-
-	}
-
-
-	public void santhosh()
-	{
-	}
-
-	public void sandeep() {
-		System.out.println("Hello folks");
-
-	}
-	
-	public void Raghavendra() {
-		System.out.println("Hello ");
-	}
 }
  
  
