@@ -1,4 +1,4 @@
-package com.example.git.sample.bhagavan;
+package com.example.git.sample.Srinath;
 
 public class Bhagavan {
 	public static void main(String[] args) {
