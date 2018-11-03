@@ -1,6 +1,7 @@
 package com.example.batch22a;
 
 public class BharathK {
+<<<<<<< HEAD
 
 	public  String saveGitHub(){
 		System.out.println("githubb");
@@ -10,11 +11,27 @@ public class BharathK {
 	public void thalla(){
 		System.out.println("its thalla");
 	}
+=======
+	public  String saveGitHub(){
+		System.out.println("githubb");
+			return "hello";
+	}	
+
+	public static void main(String[] args) {
+
+>>>>>>> 641d8db219219717f2d7a936ee498f0ea04c536d
 
 	public static void main(String[] args) {
 		
+<<<<<<< HEAD
 
 	}
+=======
+	
+}
+
+	
+>>>>>>> 641d8db219219717f2d7a936ee498f0ea04c536d
 	public void harish() {
 		System.out.println("Harish ...");
 	}
@@ -34,13 +51,11 @@ public class BharathK {
 		System.out.println("hari");
 
 	}
-<<<<<<< HEAD
+
 	public void abhi() {
 		System.out.println("i am abhi");
 	}
-public void harish() {
-		System.out.println("Harish ...");
-	}
+
 	
 
 	public void narasimha() {
@@ -48,22 +63,19 @@ public void harish() {
 	}
 	public void ghani(){
 		System.out.println("iam ghani");
+<<<<<<< HEAD
 
 
+=======
+		
+>>>>>>> 641d8db219219717f2d7a936ee498f0ea04c536d
 	}
 
 	public void TestName() {
 		
 		System.out.println("I am dayakar reddy");
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> fb00d2f942d58efcb2b8bd6ad1a5d3788d890c82
 
+}
 
 	public void methodByVijay() {
 		System.out.println("method added by vijay and commit through terminal...");
@@ -74,28 +86,16 @@ public void harish() {
 
 	
 
->>>>>>> 90c3402b8ae4a421bf2bef27840691f241062591
 	public void saiPurushothamReddy() {
 		System.out.println("SAI ANE NENU");
 	}
-	public void sandeep() {
-		System.out.println("Hello folks");
-	}
+	
 	public void viswanath(){
-		System.out.println("haiiii i am viswanath");
-<<<<<<< HEAD
->>>>>>> 6e88c68276bebac6f818e3c7af1e64a0336315ef
-=======
-<<<<<<< HEAD
-=======
-=======
-public static void main(String[] args) {
-	
-}
->>>>>>> a94c631623349e62356a6a0190a4ce505a43cc20
-
 	
 
+	}
+
+	
 	
 	public void Teja() {
 		System.out.println("Hello ");
@@ -105,4 +105,3 @@ public static void main(String[] args) {
 }
  
  
->>>>>>> 86796da763916b9c1cce856b1be07428900c70b4
