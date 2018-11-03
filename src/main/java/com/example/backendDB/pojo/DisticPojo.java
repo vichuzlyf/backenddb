@@ -3,6 +3,7 @@ package com.example.backendDB.pojo;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
@@ -14,8 +15,8 @@ public class DisticPojo {
 	@GeneratedValue
 	private Integer id;
 	private String disticname;
-	
-	private Country countrypojo;
+	@ManyToOne
+	@JoinColumn(name="did")
 	private State state;
 	public Integer getId() {
 		return id;
@@ -29,12 +30,8 @@ public class DisticPojo {
 	public void setDisticname(String disticname) {
 		this.disticname = disticname;
 	}
-	public Country getCountrypojo() {
-		return countrypojo;
-	}
-	public void setCountrypojo(Country countrypojo) {
-		this.countrypojo = countrypojo;
-	}
+	
+	
 	public State getState() {
 		return state;
 	}
