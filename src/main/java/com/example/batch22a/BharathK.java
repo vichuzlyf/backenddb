@@ -8,10 +8,10 @@ public class BharathK {
 
 	public static void main(String[] args) {
 
-
-		
-	
 }
+	public void krishna(){
+		System.out.println("WELCOME TO SLOKAM WORLD");
+	}
 
 	
 	public void harish() {
