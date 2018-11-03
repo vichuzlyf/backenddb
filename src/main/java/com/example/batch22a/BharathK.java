@@ -16,6 +16,9 @@ public class BharathK {
 	public void hari(){
 		System.out.println("hari");
 	}
+	public void harihh(){
+		System.out.println("harii new");
+	}
 
 	public void narasimha() {
 		System.out.println("I am narasimha reddy");
