@@ -10,7 +10,7 @@ public class BharathK {
 
 }
 	public void krishna(){
-		System.out.println("WELCOME TO SLOKAM WORLD");
+		System.out.println("haiiiiiiii hari");
 	}
 
 	
