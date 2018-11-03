@@ -8,37 +8,41 @@ import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
 @Entity
-@Table(name="distic")
-public class DisticPojo {
+@Table(name="address")
+public class StudentAdderssPojo {
 
 	@Id
 	@GeneratedValue
 	private Integer id;
-	private String disticname;
+	private String doorNumber;
+	
 	@ManyToOne
-	@JoinColumn(name="did")
-	private State state;
+	@JoinColumn(name="stid")
+	private Student studentpojo;
+
 	public Integer getId() {
 		return id;
 	}
+
 	public void setId(Integer id) {
 		this.id = id;
 	}
-	public String getDisticname() {
-		return disticname;
+
+	public String getDoorNumber() {
+		return doorNumber;
 	}
-	public void setDisticname(String disticname) {
-		this.disticname = disticname;
+
+	public void setDoorNumber(String doorNumber) {
+		this.doorNumber = doorNumber;
 	}
-	
-	
-	public State getState() {
-		return state;
+
+	public Student getStudentpojo() {
+		return studentpojo;
 	}
-	public void setState(State state) {
-		this.state = state;
+
+	public void setStudentpojo(Student studentpojo) {
+		this.studentpojo = studentpojo;
 	}
-	
 	
 	
 	
