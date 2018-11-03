@@ -21,10 +21,6 @@ public class BharathK {
 		System.out.println("iam ghani");
 	}
 
-	public void ghani(){
-		System.out.println("iam ghani");
-	}
-	
 
 }
  
