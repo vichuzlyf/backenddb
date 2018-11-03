@@ -2,6 +2,10 @@ package com.example.batch22a;
 
 public class BharathK {
 
+<<<<<<< HEAD
+	public static void main(String[] args) {
+		
+=======
 	public void harish() {
 		System.out.println("Harish ...");
 	}
@@ -65,6 +69,7 @@ public class BharathK {
 >>>>>>> 8ac7d4aae8e9a4dc3ad11c0f2fb8d32f2c77e7f4
 >>>>>>> 9b7ef898b13ce8bc976e7366a6fb19cf369f3566
 >>>>>>> 3042ff34bd0d8e38d5153ed44b2fcd47378128fb
+>>>>>>> 98fb9625e685e1782c2f2bb0eb6465644c3cf003
 	}
 }
  
