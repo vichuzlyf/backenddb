@@ -12,6 +12,12 @@ public class BharathK {
 		System.out.println("i am hema");
 	
 	}
+	public void hema1()
+	{
+		System.out.println("i am hema");
+	
+	}
+	
 }
  
  
