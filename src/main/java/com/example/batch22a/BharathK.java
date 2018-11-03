@@ -17,8 +17,16 @@ public class BharathK {
 		System.out.println("I am bharath ");
 		System.out.println("haiii sir");
 	}
+	public void testSM() {
+		System.out.println("I am bharath");
+	}
+	public void sandeep() {
+		System.out.println("Hello folks");
+
+	}
 	public void hari(){
 		System.out.println("hari");
+
 	}
 <<<<<<< HEAD
 	public void abhi() {
