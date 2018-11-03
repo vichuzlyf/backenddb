@@ -17,8 +17,13 @@ public class BharathK {
 		System.out.println("I am bharath");
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
+	public void narasimha() {
+		System.out.println("I am narasimha reddy");
+=======
 	public void ghani(){
 		System.out.println("iam ghani");
+>>>>>>> 9b7ef898b13ce8bc976e7366a6fb19cf369f3566
 =======
 	
 <<<<<<< HEAD
