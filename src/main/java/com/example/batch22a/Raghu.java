@@ -1,17 +1,32 @@
+<<<<<<< HEAD
 package com.example.batch22a;
 
 public class Raghu {
 
 	public static void main(String[] args) {
-<<<<<<< HEAD
 
 		System.out.println("Hello Slokam students");
 
 		System.out.println("Hello Slokam..... students ..!!!");
-=======
 		System.out.println("Hello Slokam Technologies..");
->>>>>>> 98fb9625e685e1782c2f2bb0eb6465644c3cf003
+	}
+
+}
+=======
+package com.example.batch22a;
+
+public class Raghu {
+
+	public static void main(String[] args) {
+
+		System.out.println("Hello Slokam students");
+
+		System.out.println("Hello Slokam..... students ..!!!");
+
+		System.out.println("Hello Slokam Technologies..");
+
 
 	}
 
 }
+>>>>>>> bb79e95444a3e06e67530c9a3a2682d5691ed920
