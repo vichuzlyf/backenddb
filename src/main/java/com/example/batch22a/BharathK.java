@@ -13,10 +13,10 @@ public class BharathK {
 		System.out.println("iam ghani");
 =======
 	
-<<<<<<< HEAD
+
 	public void santhosh()
 	{
-		
+	}
 =======
 	public void sandeep() {
 		System.out.println("Hello folks");
