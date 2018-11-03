@@ -4,7 +4,7 @@ public class hima {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-   System.out.println("new programs");
+   System.out.println("new updated");
    
 	}
 
