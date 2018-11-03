@@ -9,10 +9,10 @@ public class BharathK {
 		System.out.println("I am bharath");
 	}
 	
-<<<<<<< HEAD
+
 	public void santhosh()
 	{
-		
+	}
 =======
 	public void sandeep() {
 		System.out.println("Hello folks");
