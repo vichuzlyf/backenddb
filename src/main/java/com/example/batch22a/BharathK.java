@@ -47,7 +47,7 @@ public class BharathK {
 
 	public void abhi() {
 		System.out.println("i am abhi");
-		System.out.println("from F21 batch");
+		System.out.println("from F21 bach");
 	}
 
 	
