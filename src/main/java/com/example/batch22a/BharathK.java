@@ -13,10 +13,14 @@ public class BharathK {
 	public void santhosh()
 	{
 	}
-=======
+
 	public void sandeep() {
 		System.out.println("Hello folks");
->>>>>>> e6a530fd6bbeb0f12535de38f7ef7ef87ea226ea
+
+	}
+	public void sample()
+	{
+		System.out.println("sampleeeeeee");
 	}
 }
  
