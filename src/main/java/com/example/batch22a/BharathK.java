@@ -13,10 +13,17 @@ public class BharathK {
 		System.out.println("iam ghani");
 =======
 	
+<<<<<<< HEAD
+<<<<<<< HEAD
+	public void test2() {
+		
+		System.out.println("I am karan in bharath class");
+=======
 
 	public void santhosh()
 	{
 	}
+>>>>>>> 1a37f7ed5b91a8cbbd98da223a950d07ab04c5e8
 =======
 	public void sandeep() {
 		System.out.println("Hello folks");
