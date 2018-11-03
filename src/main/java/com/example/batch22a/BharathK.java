@@ -10,13 +10,17 @@ public class BharathK {
 	}
 	
 <<<<<<< HEAD
+<<<<<<< HEAD
 	public void rakesh(){
 		System.out.println("rakesh");
 =======
 <<<<<<< HEAD
+=======
+
+>>>>>>> 5499f168194b778848e9886acf861027e0dd039a
 	public void santhosh()
 	{
-		
+	}
 =======
 	public void sandeep() {
 		System.out.println("Hello folks");
