@@ -10,6 +10,10 @@ public class BharathK {
 	public void sandeep() {
 		System.out.println("Hello folks");
 	}
+	
+	public void Raghavendra() {
+		System.out.println("Hello ");
+	}
 }
  
  
