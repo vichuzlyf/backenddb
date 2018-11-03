@@ -6,6 +6,10 @@ public class BharathK {
 	public void test1() {
 		System.out.println("I am bharath");
 	}
+	
+	public void rakesh(){
+		System.out.println("rakesh");
+	}
 }
  
  
