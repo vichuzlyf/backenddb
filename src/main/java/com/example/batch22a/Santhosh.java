@@ -1,4 +1,4 @@
-package com.example.git.sample;
+package com.example.batch22a;
 
 public class Santhosh {
 
