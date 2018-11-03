@@ -1,9 +1,9 @@
 package com.example.batch22a;
 
-public class Raghu {
+public class Hari {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Slokam Technologies..");
+		System.out.println("haiii we r all slokam family");
 
 	}
 
