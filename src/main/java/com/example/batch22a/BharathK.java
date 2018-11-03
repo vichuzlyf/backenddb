@@ -8,7 +8,12 @@ public class BharathK {
 	public void test1() {
 		System.out.println("I am bharath");
 	}
+<<<<<<< HEAD
+	public void ghani(){
+		System.out.println("iam ghani");
+=======
 	
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -20,11 +25,17 @@ public class BharathK {
 >>>>>>> 873f99b0556ffc19ff3a5a54369fb2ded78a8e8b
 =======
 =======
+	public void test2() {
+		
+		System.out.println("I am karan in bharath class");
+>>>>>>> 9b7ef898b13ce8bc976e7366a6fb19cf369f3566
+=======
 
 >>>>>>> 5499f168194b778848e9886acf861027e0dd039a
 	public void santhosh()
 	{
 	}
+>>>>>>> 1a37f7ed5b91a8cbbd98da223a950d07ab04c5e8
 =======
 	public void sandeep() {
 		System.out.println("Hello folks");
