@@ -7,8 +7,7 @@ public class BharathK {
 	}
 		public void Teja(){
 			System.err.println("Teja...");
-		
-		
-	}
-	
+	}public void hari(){
+		System.err.println("welcome too slokam...");
+}
 }
