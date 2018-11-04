@@ -6,3 +6,8 @@ public class Karthik {
 	}
 
 }
+class Karthik2{
+	public void data2(){
+		System.out.println("Bhahubali3............");
+	}
+}
