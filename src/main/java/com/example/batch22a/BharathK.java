@@ -36,5 +36,8 @@ public void monday() {
 	System.out.println("Happy Monday...!!!");
 }
 
+public void tue() {
+	System.out.println("Happy tue...!!!");
+}
 
 }
