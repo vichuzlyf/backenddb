@@ -7,8 +7,10 @@ public class BharathK {
 	}
 		public void Teja(){
 			System.err.println("Teja...");
-		
-		
 	}
 	
+		
+	public void newBranchMeth() {
+		System.out.println("I am in new branch");
+	}
 }
