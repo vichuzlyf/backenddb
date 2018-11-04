@@ -9,24 +9,24 @@ public class BharathK {
 	
 	public static void main(String[] args) {
 	}
-	public void harish() {
+	public void sss() {
 		System.out.println("Harish ...");
 	}
 
-	public void test1() {
+	public void sss1() {
 		System.out.println("I am bharath ");
 		System.out.println("haiii sir");
 	}
 
-	public void testSM() {
+	public void sss2() {
 		System.out.println("I am bharath");
 	}
 
-	public void srinath() {
+	public void sss3() {
 		System.out.println("i am Srinath");
 	}
 
-	public void sandeep() {
+	public void sss4() {
 		System.out.println("Hello folks");
 	}
 
