@@ -28,6 +28,11 @@ public class BharathK {
 		System.out.println("Hello folks");
 
 	}
+		public void bhagavan(){
+			System.err.println("bhagavan...");
+		
+		
+	}
 	
 	public void karan() {
 	
