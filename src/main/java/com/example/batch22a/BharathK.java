@@ -2,6 +2,11 @@ package com.example.batch22a;
 
 public class BharathK {
 
+
+
+
+
+	
 	public static void main(String[] args) {
 
 	}	
@@ -99,11 +104,19 @@ public class BharathK {
 
 
 	
+<<<<<<< HEAD
 	public void Teja() {
 		System.out.println("Hello ");
 
+=======
+>>>>>>> 18b9a11a896d48829e1ca5684528bfd6d0931394
 	}
 
 
+
+
+
+
 	
-}
+
+
