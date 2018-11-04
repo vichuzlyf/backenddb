@@ -5,8 +5,8 @@ public class BharathK {
 	public static void main(String[] args) {
 		
 	}
-		public void Teja(){
-			System.err.println("Teja...");
+		public void thalla(){
+			System.err.println("thalla...");
 		
 		
 	}
