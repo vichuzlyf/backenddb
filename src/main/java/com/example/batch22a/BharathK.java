@@ -2,30 +2,8 @@ package com.example.batch22a;
 
 public class BharathK {
 
-<<<<<<< HEAD
 	public static void main(String[] args) {
-
-=======
-<<<<<<< HEAD
-	public  String saveGitHub(){
-		System.out.println("githubb");
-			return "hello";
-		}
-
-<<<<<<< HEAD
-	
-=======
-	public static void main(String[] args) {
-<<<<<<< HEAD
-
-		
-	
-}}
-=======
-		
->>>>>>> b00c67acf62bb263ad370402fc2f4d9e9d248355
 	}
-
 	public void harish() {
 		System.out.println("Harish ...");
 	}
@@ -88,31 +66,20 @@ public class BharathK {
 
 	public void viswanath() {
 		System.out.println("haiiii i am viswanath");
-<<<<<<< HEAD
+
 
 	}
 
 	public void Raghavendra() {
 		System.out.println("Hello ");
 	}
-}
-=======
-<<<<<<< HEAD
->>>>>>> 6e88c68276bebac6f818e3c7af1e64a0336315ef
-=======
-<<<<<<< HEAD
-=======
-=======
-public static void main(String[] args) {
-	
-}
+
+
 	
 	public void Teja() {
 		System.out.println("Hello ");
 	}
 
+
+	
 }
- 
- 
->>>>>>> 86796da763916b9c1cce856b1be07428900c70b4
->>>>>>> b00c67acf62bb263ad370402fc2f4d9e9d248355
