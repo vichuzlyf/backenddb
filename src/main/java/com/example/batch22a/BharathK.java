@@ -31,5 +31,7 @@ public void Raghu() {
 public void sunday() {
 	System.out.println("Happy Sunday...!!!");
 }
-
+public void harish() {
+	System.out.println("Hi i am from slokam....");
+}
 }
