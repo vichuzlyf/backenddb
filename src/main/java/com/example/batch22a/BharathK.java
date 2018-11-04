@@ -21,4 +21,7 @@ public class BharathK {
 		System.out.println("Happy Sunday...!!!");
 	}
 
+	public void harish() {
+		System.out.println("Hi i am from Slokam...");
+	}
 }
