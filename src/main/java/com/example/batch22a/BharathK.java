@@ -10,7 +10,11 @@ public class BharathK {
 public void Raghu() {
 	System.out.println("Master Bhagawan...");
 }
-	
+
+public void Sai() {
+	System.out.println("Master nagasai...");
+}
+
 }
  
 
