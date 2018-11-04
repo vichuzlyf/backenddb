@@ -8,5 +8,8 @@ public class BharathK {
 	public void newBranchMeth() {
 		System.out.println("I am in new branch");
 	}
+	public void slokam() {
+		System.out.println("I am harish");
+	}
 }
 
