@@ -3,9 +3,7 @@ package com.example.batch22a;
 public class BharathK {
 
 
-<<<<<<< HEAD
-}
-=======
+
 
 
 
@@ -78,14 +76,9 @@ public class BharathK {
 
 	}
 
-	public void Raghavendra() {
-		System.out.println("Hello ");
-	}
-
-
-
 	
-	}
+	
+	
 
 
 
