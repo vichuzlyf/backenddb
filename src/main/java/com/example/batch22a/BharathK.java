@@ -1,9 +1,8 @@
 package com.example.batch22a;
 
 public class BharathK {
-
-
 	public static void main(String[] args) {
+
 		System.out.println("only");
 	}
 
@@ -75,49 +74,10 @@ public class BharathK {
 	public void test2() 
 	{
 		
-		System.out.println("I am karan in bharath class");
 	}
-	
-	
-	public void abhi() {
-		System.out.println("i am abhi");
-		System.out.println("from F21 bach");
+		
+	public void newBranchMeth() {
+		System.out.println("I am in new branch");
 	}
-
-	
-
-	public void ghani() {
-		System.out.println("iam ghani");
-
-	}
-
-	public void TestName() {
-
-		System.out.println("I am dayakar reddy");
-	}
-
-	
-	
-
-	public void viswanath() {
-		System.out.println("haiiii i am viswanath");
-
-	}
-
-	
-	
-
-
-
-	public void Raghavendra() {
-		System.out.println("Hello ");
-	}
-
-	public void Teja() {
-		System.out.println("Hello ");
-	}
-	
 }
- 
-
 
