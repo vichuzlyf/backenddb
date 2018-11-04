@@ -6,6 +6,7 @@ public class BharathK {
 
 
 
+
 	
 	public static void main(String[] args) {
 
@@ -14,15 +15,10 @@ public class BharathK {
 
 	
 
+
 	public void harish() {
 		System.out.println("Harish ...");
 	}
-
-	public void test1() {
-		System.out.println("I am bharath ");
-		System.out.println("haiii sir");
-	}
-
 	public void testSM() {
 		System.out.println("I am bharath");
 	}
@@ -49,23 +45,31 @@ public class BharathK {
 
 	}
 
-	public void abhi() {
-		System.out.println("i am abhi");
-	}
-
 	public void narasimha() {
 		System.out.println("I am narasimha reddy");
 	}
+	public void viswanath() {
+		System.out.println("haiiii i am viswanath");
 
-	public void ghani() {
-		System.out.println("iam ghani");
 	}
+
 
 
 	
 	public void TestName() {
+	}
+	
+	
 
-		System.out.println("I am dayakar reddy");
+
+
+	public void Raghavendra() {
+		System.out.println("Helloo ");
+	}
+
+
+	public void Teja() {
+		System.out.println("Helloo ");
 
 
 	}
@@ -85,31 +89,20 @@ public class BharathK {
 	}
 
 
+
+	
+
 	
 
 	
 
-	public void viswanath(){
-		System.out.println("haiiii i am viswanath");
-	}
 	
 	
-	
-
-	
-	public void Raghavendra() {
-		System.out.println("Hello ");
-	}
 
 
 
 	
-<<<<<<< HEAD
-	public void Teja() {
-		System.out.println("Hello ");
 
-=======
->>>>>>> 18b9a11a896d48829e1ca5684528bfd6d0931394
 	}
 
 
@@ -120,3 +113,4 @@ public class BharathK {
 	
 
 
+	
