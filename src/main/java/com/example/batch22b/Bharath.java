@@ -6,4 +6,8 @@ public class Bharath {
 	public void test1() {
 		System.out.println("I am bharath");
 	}
+	public void testone() {
+		System.out.println("Slokam");
+		
+	}
 }
