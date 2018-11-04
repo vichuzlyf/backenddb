@@ -10,4 +10,8 @@ public class Bharath {
 		System.out.println("Hello");
 >>>>>>> ac70274e67a4115e8b381d738bf76706be9a1038
 	}
+	public void testone() {
+		System.out.println("Slokam");
+		
+	}
 }
