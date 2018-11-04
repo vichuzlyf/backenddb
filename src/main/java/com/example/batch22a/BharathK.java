@@ -7,12 +7,13 @@ public class BharathK {
 		System.out.println("only");
 	}
 
-public void Raghu() {
-	System.out.println("Master Bhagawan...");
-}
 
 public void Sai() {
 	System.out.println("Master nagasai...");
+}
+
+public void Raghu() {
+	System.out.println("GoodAfternoon...");
 }
 
 }
