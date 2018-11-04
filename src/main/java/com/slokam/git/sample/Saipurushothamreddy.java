@@ -7,5 +7,9 @@ public class Saipurushothamreddy {
 		System.out.println("SAI ANE NENU GIT ki vachesanu..");
 
 	}
+	
+	public void newmethodSai() {
+		System.out.println("SaiAneNenu fixed");
+	}
 
 }
