@@ -89,9 +89,20 @@ public class BharathK {
 	}
 
 		
+<<<<<<< HEAD
 
    void add() {
 	   System.out.println("add");
    }
 }
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+}}
+>>>>>>> s@mple
+=======
+>>>>>>> 051c04ce49809f327f7e5e3f1bdb2a076647838d
+>>>>>>> 0c528927dcd9ccf4070e325a0fa7c18112f69cd7
+=======
 
+>>>>>>> 04387d96c0c1542ba549fa6864bd0fa274d590d7
