@@ -16,4 +16,9 @@ public void testName2() {
 	
 	System.out.println("I am dayakar reddy....");
 }
+public void testName3() {
+	
+	System.out.println("I am dayakar reddy....");
+}
+
 }
