@@ -27,9 +27,7 @@ public class BharathK {
 		public void methodByVijay() {
 			System.out.println("method added by vijay and commit through terminal...");
 		}
-		public void santhosh()
-		{
-		}
+	
 
 
 
@@ -37,9 +35,7 @@ public class BharathK {
 			System.out.println("SAI ANE NENU");
 		}
 		
-		public void test2() {
 		
-		}
 			
 			
 
