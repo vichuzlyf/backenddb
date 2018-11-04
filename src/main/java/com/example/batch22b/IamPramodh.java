@@ -4,7 +4,7 @@ public class IamPramodh {
 	
 	public void pramodh()
 	{
-		System.out.println("This is Pramodh..Siddam.......");
+		System.out.println("Pramodh's class.......");
 	}
 
 }
