@@ -3,10 +3,10 @@ package com.example.batch22a;
 public class BharathK {
 	public static void main(String[] args) {
 		
-	
-
-	System.out.println("hii hema");
-	
 	}
-
+		
+	public void newBranchMeth() {
+		System.out.println("I am in new branch");
+	}
 }
+
