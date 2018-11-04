@@ -2,12 +2,11 @@ package com.example.batch22a;
 
 public class BharathK {
 
-<<<<<<< HEAD
-	
-	public void test1() {
-		System.out.println("I am bharath");
-	}
+public void hi()
+{
+	System.out.println();
 }
+<<<<<<< HEAD
  
  
 =======
@@ -39,3 +38,6 @@ public class BharathK {
 }
 >>>>>>> 051c04ce49809f327f7e5e3f1bdb2a076647838d
 >>>>>>> 218f6644407598f088576f40607871adfdbf0762
+=======
+}
+>>>>>>> a6fe7fc013328019f75287367f312aca3fb8ff50
