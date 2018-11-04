@@ -1,14 +1,6 @@
 package com.example.batch22a;
 
 public class BharathK {
-
-
-	
-	
- 
-
-
-	
 	public static void main(String[] args) {
 	}
 	public void sss() {
@@ -42,33 +34,12 @@ public class BharathK {
 		System.out.println("i am abhi");
 	}
 
-	public void narasimha() {
-		System.out.println("I am narasimha reddy");
-	}
+	
 
 	public void ghani() {
 		System.out.println("iam ghani");
 	}
 
-	public void TestName() {
+	
 
-		System.out.println("I am dayakar reddy");
-
-	}
-
-	public void methodByVijay() {
-		System.out.println("method added by vijay and commit through terminal...");
-	}
-
-	public void santhosh() {
-	}
-
-	public void saiPurushothamReddy() {
-		System.out.println("SAI ANE NENU");
-	}
-
-	public void viswanath() {
-		System.out.println("haiiii i am viswanath");
-
-
-	}}
+}
