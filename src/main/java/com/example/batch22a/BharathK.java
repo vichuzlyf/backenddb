@@ -14,4 +14,8 @@ public class BharathK {
 	{
 		System.out.println("rutu..");
 	}
+	public void RutuNew()
+	{
+		System.out.println("new branch method rutu....");
+	}
 }
