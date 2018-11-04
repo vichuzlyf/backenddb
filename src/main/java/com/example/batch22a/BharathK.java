@@ -1,6 +1,7 @@
 package com.example.batch22a;
 
 public class BharathK {
+
 	public static void main(String[] args) {
 	}
 	public void sss() {
@@ -34,12 +35,9 @@ public class BharathK {
 		System.out.println("i am abhi");
 	}
 
-	
 
-	public void ghani() {
-		System.out.println("iam ghani");
-	}
-
-	
-
+public void hi()
+{
+	System.out.println();
 }
+	}
