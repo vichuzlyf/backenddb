@@ -28,5 +28,8 @@ public void Raghu() {
 	System.out.println("GoodAfternoon...");
 }
 
+public void sunday() {
+	System.out.println("Happy Sunday...!!!");
+}
 
 }
