@@ -10,5 +10,10 @@ public class BharathK {
 		
 		
 	}
+		public void bhagavan(){
+			System.err.println("bhagavan...");
+		
+		
+	}
 	
 }
