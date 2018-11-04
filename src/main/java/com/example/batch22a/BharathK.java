@@ -5,6 +5,7 @@ public class BharathK {
 
 	public static void main(String[] args) {
 		
+<<<<<<< HEAD
 
 		
 	}public void hari(){
@@ -12,3 +13,6 @@ public class BharathK {
 }
 
 }
+=======
+}}
+>>>>>>> s@mple
