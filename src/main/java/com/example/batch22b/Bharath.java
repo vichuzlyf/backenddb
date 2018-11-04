@@ -9,8 +9,11 @@ public void test() {
 
 	
 	public void test1() {
+<<<<<<< HEAD
+=======
 
 //>>>>>>> ac70274e67a4115e8b381d738bf76706be9a1038
+>>>>>>> 92ef25dc4dc31db71196cdf89444c569e6083c5a
 	}
 <<<<<<< HEAD
 >>>>>>> 834a9f953fe449802f3fb285b12b16f6560e4b24
