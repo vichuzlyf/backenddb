@@ -10,5 +10,8 @@ public class BharathK {
 		
 		
 	}
-	
+	public void Rutu2()
+	{
+		System.out.println("rutu..");
+	}
 }
