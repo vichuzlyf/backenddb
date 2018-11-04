@@ -1,0 +1,13 @@
+<<<<<<< HEAD:src/main/java/com/example/batch22b/lokam.java
+package com.example.batch22b;
+
+public class lokam {
+
+}
+=======
+package com.example.batch22b;
+
+public class gopal {
+
+}
+>>>>>>> suresh:src/main/java/com/example/batch22b/gopal.java
