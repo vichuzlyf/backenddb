@@ -110,11 +110,11 @@ public class BharathK {
 
 
 	public void Raghavendra() {
-		System.out.println("Hello ");
+		System.out.println("Helloo ");
 	}
 
 	public void Teja() {
-		System.out.println("Hello ");
+		System.out.println("Helloo ");
 	}
 	
 }
