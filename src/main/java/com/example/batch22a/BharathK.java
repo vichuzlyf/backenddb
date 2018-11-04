@@ -1,6 +1,7 @@
 package com.example.batch22a;
 
 public class BharathK {
+<<<<<<< HEAD
 	
 	public static void main(String[] args) {
 		
@@ -37,3 +38,14 @@ public class BharathK {
 	}
  
  
+=======
+	public static void main(String[] args) {
+		
+	}
+		
+	public void newBranchMeth() {
+		System.out.println("I am in new branch");
+	}
+}
+
+>>>>>>> 821aad6806ea8539a9563deaf2f04629d6fcc3cc
