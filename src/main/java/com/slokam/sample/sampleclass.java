@@ -7,6 +7,7 @@ public class sampleclass {
 System.out.println("helloworld");
 System.out.println("helloworld2");
 System.out.println("haiii siva");
+System.out.println("second class");
 	}
 
 }
