@@ -3,8 +3,9 @@ package com.example.batch22a;
 public class BharathK {
 
 
-
-
+	
+	
+ 
 
 
 	
@@ -36,11 +37,7 @@ public class BharathK {
 		System.out.println("I am karan in bharath class");
 	}
 
-	public void hari() {
-		System.out.println("hari");
-
-	}
-
+	
 	public void abhi() {
 		System.out.println("i am abhi");
 	}
@@ -74,18 +71,4 @@ public class BharathK {
 		System.out.println("haiiii i am viswanath");
 
 
-	}
-
-	
-	
-	
-
-
-
-
-
-
-	
-
-
->>>>>>> suresh
+	}}
