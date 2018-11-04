@@ -5,5 +5,9 @@ public class DayakarReddy {
 		
 		System.out.println("hai daya.....");
 	}
+public void name1() {
+		
+		System.out.println("hai daya.....");
+	}
 
 }
