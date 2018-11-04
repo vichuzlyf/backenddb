@@ -32,4 +32,9 @@ public void sunday() {
 	System.out.println("Happy Sunday...!!!");
 }
 
+public void monday() {
+	System.out.println("Happy Monday...!!!");
+}
+
+
 }
