@@ -1,43 +1,37 @@
 package com.example.batch22a;
 
-public class BharathK {
 
-public void hi()
+
+
+public class BharathK
 {
-	System.out.println();
+public void shravya()
+	{
+		System.out.println("shravya here");
 }
-<<<<<<< HEAD
- 
- 
-=======
+public void shravyarao()
+{
+	System.out.println("hi there");
+}
+
 
 	public static void main(String[] args) {
-		
-<<<<<<< HEAD
-	
-		public void thalla(){
-			System.err.println("thalla...");	
+		System.out.println("only");
 	}
-		public void hari(){
-		System.err.println("welcome too slokam...");
+
+
+public void Sai() {
+	System.out.println("Master nagasai...");
 }
 
-
-
-}}
-=======
-
-<<<<<<< HEAD
->>>>>>> ad8ad90cf1527df4bd0262829b5c41dfc3b53e08
-=======
-		
-	}public void hari(){
-		System.err.println("welcome too slokam...");
+public void Raghu() {
+	System.out.println("GoodAfternoon...");
 }
 
+public void sunday() {
+	System.out.println("Happy Sunday...!!!");
 }
->>>>>>> 051c04ce49809f327f7e5e3f1bdb2a076647838d
->>>>>>> 218f6644407598f088576f40607871adfdbf0762
-=======
+public void harish() {
+	System.out.println("Hi i am from slokam tech...");
 }
->>>>>>> a6fe7fc013328019f75287367f312aca3fb8ff50
+}
