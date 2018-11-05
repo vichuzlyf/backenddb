@@ -672,3 +672,21 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.jface.text 2 0 2018-11-05 23:13:18.583
 !MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-05 23:39:05.656
+!MESSAGE Failed to retrieve plugin descriptor for junit:junit:4.8.1: Failed to parse plugin descriptor for junit:junit:4.8.1 (C:\Users\Sindhuja M\.m2\repository\junit\junit\4.8.1\junit-4.8.1.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-05 23:39:06.146
+!MESSAGE Failed to retrieve plugin descriptor for junit:junit:4.8.1: Failed to parse plugin descriptor for junit:junit:4.8.1 (C:\Users\Sindhuja M\.m2\repository\junit\junit\4.8.1\junit-4.8.1.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-05 23:39:25.501
+!MESSAGE Failed to retrieve plugin descriptor for junit:junit:4.8.1: Failed to parse plugin descriptor for junit:junit:4.8.1 (C:\Users\Sindhuja M\.m2\repository\junit\junit\4.8.1\junit-4.8.1.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-05 23:39:25.525
+!MESSAGE Failed to retrieve plugin descriptor for junit:junit:4.8.1: Failed to parse plugin descriptor for junit:junit:4.8.1 (C:\Users\Sindhuja M\.m2\repository\junit\junit\4.8.1\junit-4.8.1.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-05 23:39:36.703
+!MESSAGE Failed to retrieve plugin descriptor for junit:junit:4.8.1: Failed to parse plugin descriptor for junit:junit:4.8.1 (C:\Users\Sindhuja M\.m2\repository\junit\junit\4.8.1\junit-4.8.1.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-11-05 23:39:36.806
+!MESSAGE Failed to retrieve plugin descriptor for junit:junit:4.8.1: Failed to parse plugin descriptor for junit:junit:4.8.1 (C:\Users\Sindhuja M\.m2\repository\junit\junit\4.8.1\junit-4.8.1.jar): No plugin descriptor found at META-INF/maven/plugin.xml

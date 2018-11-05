@@ -6,7 +6,6 @@ INDEX VERSION 1.131+D:\GIT\backenddb\.metadata\.plugins\org.eclipse.jdt.core
 1738637445.index
 1418352506.index
 4203653800.index
-1059659546.index
 2357601650.index
 2448071419.index
 2531024365.index
