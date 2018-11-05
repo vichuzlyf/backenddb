@@ -1,6 +1,19 @@
 package com.example.batch22b;
 
 public class Bharath {
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+		public void test1() {
+		System.out.println("I am bharath");
+=======
+public void test() {
+	System.out.println("I am bharath");
+}
+>>>>>>> f1409fd9d3e82dcdbb23ed7c0e8d5376b04957c5
+=======
+=======
+>>>>>>> 2841b0103f96ccbb1624bed77b20b8fae91e60c0
 
 	public void test() {
 		System.out.println("I am bharath");
@@ -17,7 +30,12 @@ public class Bharath {
 
 	public void testone() {
 		System.out.println("Slokam");
+<<<<<<< HEAD
+		
+>>>>>>> 5c6cfc913b2d603b333cb55562e60930e4123222
+=======
 
+>>>>>>> 2841b0103f96ccbb1624bed77b20b8fae91e60c0
 	}
 
 	public void Slokam() {
