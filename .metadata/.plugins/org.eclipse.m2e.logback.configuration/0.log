@@ -696,3 +696,31 @@
 2018-11-05 23:17:06,081 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-11-05 23:17:06,086 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-11-05 23:17:06,086 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitb\backenddb\src\test\resources
+2018-11-05 23:38:41,464 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-11-05 23:38:59,373 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:backendDB:0.0.1-SNAPSHOT @ E:\gitb\backenddb\pom.xml.
+2018-11-05 23:39:05,654 [Worker-35: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for junit:junit:4.8.1: Failed to parse plugin descriptor for junit:junit:4.8.1 (C:\Users\Sindhuja M\.m2\repository\junit\junit\4.8.1\junit-4.8.1.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+2018-11-05 23:39:06,144 [Worker-35: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for junit:junit:4.8.1: Failed to parse plugin descriptor for junit:junit:4.8.1 (C:\Users\Sindhuja M\.m2\repository\junit\junit\4.8.1\junit-4.8.1.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+2018-11-05 23:39:22,141 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backendDB/src/main/java
+2018-11-05 23:39:22,142 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backendDB/src/main/resources
+2018-11-05 23:39:22,143 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backendDB/src/main/resources
+2018-11-05 23:39:22,144 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backendDB/src/test/java
+2018-11-05 23:39:25,499 [Worker-35: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for junit:junit:4.8.1: Failed to parse plugin descriptor for junit:junit:4.8.1 (C:\Users\Sindhuja M\.m2\repository\junit\junit\4.8.1\junit-4.8.1.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+2018-11-05 23:39:25,524 [Worker-35: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for junit:junit:4.8.1: Failed to parse plugin descriptor for junit:junit:4.8.1 (C:\Users\Sindhuja M\.m2\repository\junit\junit\4.8.1\junit-4.8.1.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+2018-11-05 23:39:28,884 [Worker-35: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for backendDB
+2018-11-05 23:39:28,961 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 47 sec
+2018-11-05 23:39:36,522 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-05 23:39:36,523 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-05 23:39:36,622 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-05 23:39:36,630 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-05 23:39:36,631 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitb\backenddb\src\test\resources
+2018-11-05 23:39:36,631 [Worker-44: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of backendDB
+2018-11-05 23:39:36,686 [Worker-44: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for backendDB
+2018-11-05 23:39:36,701 [Worker-44: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for junit:junit:4.8.1: Failed to parse plugin descriptor for junit:junit:4.8.1 (C:\Users\Sindhuja M\.m2\repository\junit\junit\4.8.1\junit-4.8.1.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+2018-11-05 23:39:36,805 [Worker-44: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for junit:junit:4.8.1: Failed to parse plugin descriptor for junit:junit:4.8.1 (C:\Users\Sindhuja M\.m2\repository\junit\junit\4.8.1\junit-4.8.1.jar): No plugin descriptor found at META-INF/maven/plugin.xml
+2018-11-05 23:39:36,826 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 14:36:03,690 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-06 14:37:21,590 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 14:37:21,745 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-06 14:37:22,008 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-06 14:37:22,023 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 14:37:22,024 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitb\backenddb\src\test\resources
