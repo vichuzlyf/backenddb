@@ -718,3 +718,9 @@
 2018-11-05 23:39:36,701 [Worker-44: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for junit:junit:4.8.1: Failed to parse plugin descriptor for junit:junit:4.8.1 (C:\Users\Sindhuja M\.m2\repository\junit\junit\4.8.1\junit-4.8.1.jar): No plugin descriptor found at META-INF/maven/plugin.xml
 2018-11-05 23:39:36,805 [Worker-44: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for junit:junit:4.8.1: Failed to parse plugin descriptor for junit:junit:4.8.1 (C:\Users\Sindhuja M\.m2\repository\junit\junit\4.8.1\junit-4.8.1.jar): No plugin descriptor found at META-INF/maven/plugin.xml
 2018-11-05 23:39:36,826 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 14:36:03,690 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-11-06 14:37:21,590 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 14:37:21,745 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-11-06 14:37:22,008 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-06 14:37:22,023 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-11-06 14:37:22,024 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\gitb\backenddb\src\test\resources
