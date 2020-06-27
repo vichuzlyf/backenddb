@@ -1,9 +1,5 @@
 pipeline {
    agent any
-
-   options {
-        timestamps()
-    }
 	
 	tools {
       jdk "Java8"
