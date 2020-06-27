@@ -4,6 +4,10 @@ pipeline {
    options {
         timestamps()
     }
+	
+	tools {
+      jdk "Java8"
+   }
 
    stages {
 		stage('Checkout') {
@@ -13,13 +17,12 @@ pipeline {
         }
       stage('Build') {
          steps {
-            sh "mvn -Dmaven.test.failure.ignore=true clean package"
+            sh("mvn -Dmaven.test.failure.ignore=true clean package")
          }
 
          post {
             success {
                junit '**/target/surefire-reports/TEST-*.xml'
-               archiveArtifacts 'target/*.jar'
             }
          }
       }
