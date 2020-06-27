@@ -5,6 +5,9 @@ pipeline {
       jdk "Java8"
    }
 
+   options(){
+    timestamps()
+  }
    stages {
 		stage('Checkout') {
             steps {
